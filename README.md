@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bhavanareddi13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...web development and fullstack
+- 👋 Hi, I’m Bhavana
+- 👀 I’m interested in web development ,fullstack with java,sql and cloud
+- 🌱 I’m currently learning ...web development,fullstack and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...my email is bhavana.b.6713@gmail.com
 
